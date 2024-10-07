@@ -1,0 +1,14 @@
+C:\files\bakendProject\anisTraining\anisTraining.Services\bin\Debug\net8.0\anisTraining.DataServices.deps.json
+C:\files\bakendProject\anisTraining\anisTraining.Services\bin\Debug\net8.0\anisTraining.DataServices.runtimeconfig.json
+C:\files\bakendProject\anisTraining\anisTraining.Services\bin\Debug\net8.0\anisTraining.DataServices.dll
+C:\files\bakendProject\anisTraining\anisTraining.Services\bin\Debug\net8.0\anisTraining.DataServices.pdb
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.csproj.AssemblyReference.cache
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.AssemblyInfoInputs.cache
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.AssemblyInfo.cs
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.csproj.CoreCompileInputs.cache
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.dll
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\refint\anisTraining.DataServices.dll
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.pdb
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\anisTraining.DataServices.genruntimeconfig.cache
+C:\files\bakendProject\anisTraining\anisTraining.Services\obj\Debug\net8.0\ref\anisTraining.DataServices.dll

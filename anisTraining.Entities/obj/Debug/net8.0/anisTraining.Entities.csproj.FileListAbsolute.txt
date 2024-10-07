@@ -1,0 +1,11 @@
+C:\files\bakendProject\anisTraining\anisTraining.Entities\bin\Debug\net8.0\anisTraining.Entities.deps.json
+C:\files\bakendProject\anisTraining\anisTraining.Entities\bin\Debug\net8.0\anisTraining.Entities.dll
+C:\files\bakendProject\anisTraining\anisTraining.Entities\bin\Debug\net8.0\anisTraining.Entities.pdb
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\anisTraining.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\anisTraining.Entities.AssemblyInfoInputs.cache
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\anisTraining.Entities.AssemblyInfo.cs
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\anisTraining.Entities.csproj.CoreCompileInputs.cache
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\anisTraining.Entities.dll
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\refint\anisTraining.Entities.dll
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\anisTraining.Entities.pdb
+C:\files\bakendProject\anisTraining\anisTraining.Entities\obj\Debug\net8.0\ref\anisTraining.Entities.dll

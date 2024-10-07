@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "anisTraining.Entities/1.0.0": {
+        "runtime": {
+          "anisTraining.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "anisTraining.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
