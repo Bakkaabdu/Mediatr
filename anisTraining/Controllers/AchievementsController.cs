@@ -4,6 +4,7 @@ using anisTraining.Entities.Dtos.Responses;
 using anisTraining.Services.Repositories;
 using anisTraining.Services.Repositories.Interfaces;
 using AutoMapper;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,7 +15,8 @@ namespace anisTraining.Controllers
     {
         public AchievementsController(
             IUnitOfWork unitOfWork, 
-            IMapper mapper) : base(unitOfWork, mapper) { }
+            IMapper mapper,
+            IMediator mediator) : base(unitOfWork, mapper, mediator) { }
 
         [HttpGet]
         [Route("{driverId:Guid}")]

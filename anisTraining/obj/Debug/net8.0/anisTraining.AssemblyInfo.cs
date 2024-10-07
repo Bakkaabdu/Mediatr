@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("anisTraining")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84792beb9b46a404b5fde4bb9968ac3108311949")]
 [assembly: System.Reflection.AssemblyProductAttribute("anisTraining")]
 [assembly: System.Reflection.AssemblyTitleAttribute("anisTraining")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,6 @@
 ﻿using anisTraining.Services.Repositories.Interfaces;
 using AutoMapper;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,15 +12,18 @@ namespace anisTraining.Controllers
     {
         protected readonly IUnitOfWork _unitOfWork;
         protected readonly IMapper _mapper;
+        protected readonly IMediator _mediator;
 
 
         public BaseController(
             IUnitOfWork unitOfWork,
-            IMapper mapper
+            IMapper mapper,
+            IMediator mediator
             )
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
+            _mediator = mediator;
         }
     }
 }

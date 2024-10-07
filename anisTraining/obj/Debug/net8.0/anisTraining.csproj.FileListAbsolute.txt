@@ -142,3 +142,4 @@ C:\files\bakendProject\anisTraining\anisTraining\bin\Debug\net8.0\anisTraining.E
 C:\files\bakendProject\anisTraining\anisTraining\bin\Debug\net8.0\AutoMapper.dll
 C:\files\bakendProject\anisTraining\anisTraining\bin\Debug\net8.0\MediatR.dll
 C:\files\bakendProject\anisTraining\anisTraining\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\files\bakendProject\anisTraining\anisTraining\obj\Debug\net8.0\anisTraining.sourcelink.json
